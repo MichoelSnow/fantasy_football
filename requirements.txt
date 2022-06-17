@@ -1,5 +1,5 @@
 beautifulsoup4==4.6.3
-numpy==1.12.1
+numpy==1.21.0
 pandas==0.22.0
 python-dateutil==2.7.2
 pytz==2018.3
